@@ -14,13 +14,13 @@
 
   //  Replace With YOUR Firebase Config
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "SENDER_ID",
-  appId: "APP_ID"
+  apiKey: "AIzaSyAjLgHhxS1cskX1zvUpPL0dkcDgqzymTCU",
+  authDomain: "tech-home-bf990.firebaseapp.com",
+  databaseURL: "https://tech-home-bf990-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "tech-home-bf990",
+  storageBucket: "tech-home-bf990.firebasestorage.app",
+  messagingSenderId: "217942852216",
+  appId: "1:217942852216:web:d1c1b9619241e2d257e38d"
 };
 
   // Initialize Firebase
